@@ -2,7 +2,7 @@
 Simple todo list with sticky notes.
 
 ## Demo link:
-Access my site at [link](deployment-link)
+Access my site at [link](https://62651a17dcafd97e7268c695--cerulean-cranachan-0bafae.netlify.app/)
 
 ## Table of Content:
 
