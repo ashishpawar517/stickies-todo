@@ -1,5 +1,17 @@
-# Stickies - TODO
-Simple todo list with sticky notes.
+<div align='center'>
+<h1> Stickies - TODO</h1>
+Simple todo list with sticky notes. 
+  <br/>
+  <br/>
+  
+<img src="https://img.shields.io/badge/React-20232A?style=flat-square&logo=react&logoColor=61DAFB">
+<img src="https://badges.frapsoft.com/os/v1/open-source.svg?v=103">
+<img src="https://img.shields.io/badge/PRs-welcome-brightgreen.svg?style=flat-square">
+<img src="https://img.shields.io/website-up-down-green-red/http/shields.io.svg?style=flat-square">
+<img src="https://badges.frapsoft.com/os/mit/mit.png?v=103">
+ 
+</div>
+
 
 ## Demo link:
 Access my site at [link](https://62651a17dcafd97e7268c695--cerulean-cranachan-0bafae.netlify.app/)
