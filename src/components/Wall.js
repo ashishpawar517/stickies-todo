@@ -10,7 +10,7 @@ class Wall extends React.Component {
         this.state = {
             display_spotlight: 'hidden',
         };
-            if (!('words' in localStorage)) {
+        if (!('words' in localStorage) ) {
 
             localStorage.setItem(
                 'words',
@@ -55,7 +55,7 @@ class Wall extends React.Component {
         const {display_spotlight: displaySpotlight} = this.state;
         return (
             <div className="bg">
-                <Spotlight displayMode={displaySpotlight} />
+                <Spotlight displayMode={displaySpotlight}/>
                 <StickiesList/>
             </div>
         );
