@@ -46,6 +46,7 @@ class Spotlight extends React.Component {
                     ref={input => input && input.focus() }
                     value={this.state.inputValue}
                     onChange={(evt) => this.updateInputValue(evt)}
+                    autoComplete="off"
                 />
             </div>
         );
