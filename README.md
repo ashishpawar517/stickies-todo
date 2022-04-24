@@ -24,8 +24,6 @@ As the name suggests it is basically a todo list using sticky notes. I wanted to
 
 ![screenshot](.github/stickies_ss.png)
 
-Picture by [Kelly Sikkema](https://unsplash.com/@kellysikkema)
-
 ## Technologies
 I used `react` `html`, `css`.
 
