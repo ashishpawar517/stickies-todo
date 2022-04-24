@@ -1,0 +1,86 @@
+.note-wrap {
+    width: 135px;
+    min-height: 135px;
+    padding: 35px;
+    margin: 20px 22px 44px 22px;
+    position: relative;
+    font-size: 24px;
+    vertical-align: top;
+    display: inline-block;
+    font-family: Englebert, Arial, serif;
+    color: #4b453c;
+    background: #f7e999;
+    line-height: 34px;
+    text-align: center;
+    box-shadow: 0 4px 5px rgba(0, 0, 0, 0.2);
+}
+.note-wrap:before {
+    display: block;
+    content: "";
+    background: rgba(227, 200, 114, 0.4);
+    width: 60px;
+    height: 28px;
+    box-shadow: 0 1px 1px rgba(0, 0, 0, 0.2);
+    border-radius: 6px/18px 0;
+    position: absolute;
+    top: -13px;
+    left: 50px;
+    -webkit-transform: rotate(-2deg);
+    -moz-transform: rotate(-2deg);
+    -o-transform: rotate(-2deg);
+    -ms-transform: rotate(-2deg);
+    transform: rotate(-2deg);
+}
+.note-wrap a {
+    color: #6b824f;
+    text-decoration: none;
+    font-size: 20px;
+}
+.description {
+    text-decoration: none;
+    font-size: 18px;
+}
+
+.cross{
+    display: flex;
+    align-items: flex-end;
+    justify-content: flex-end;
+}
+small{
+    font-size: 14px;
+}
+.note-wrap a:hover {
+    color: #d83a25;
+}
+.note-yellow {
+    background: #f7e999;
+    -webkit-transform: rotate(2deg);
+    -moz-transform: rotate(2deg);
+    -o-transform: rotate(2deg);
+    -ms-transform: rotate(2deg);
+    transform: rotate(2deg);
+}
+.note-blue {
+    background: #b9dcf4;
+    -webkit-transform: rotate(-2deg);
+    -moz-transform: rotate(-2deg);
+    -o-transform: rotate(-2deg);
+    -ms-transform: rotate(-2deg);
+    transform: rotate(-2deg);
+}
+.note-pink {
+    background: #ffbda3;
+    -webkit-transform: rotate(1deg);
+    -moz-transform: rotate(1deg);
+    -o-transform: rotate(1deg);
+    -ms-transform: rotate(1deg);
+    transform: rotate(1deg);
+}
+.note-green {
+    background: #caf4b9;
+    -webkit-transform: rotate(-1deg);
+    -moz-transform: rotate(-1deg);
+    -o-transform: rotate(-1deg);
+    -ms-transform: rotate(-1deg);
+    transform: rotate(-1deg);
+}
