@@ -8,7 +8,9 @@ Simple todo list with sticky notes.
 <img src="https://badges.frapsoft.com/os/v1/open-source.svg?v=103">
 <img src="https://img.shields.io/badge/PRs-welcome-brightgreen.svg?style=flat-square">
 <img src="https://img.shields.io/website-up-down-green-red/http/shields.io.svg?style=flat-square">
+<a href="https://deepscan.io/dashboard#view=project&tid=17535&pid=20886&bid=581987"><img src="https://deepscan.io/api/teams/17535/projects/20886/branches/581987/badge/grade.svg" alt="DeepScan grade"></a>
 <img src="https://badges.frapsoft.com/os/mit/mit.png?v=103">
+  
  
 </div>
 
