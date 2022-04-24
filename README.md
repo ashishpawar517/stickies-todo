@@ -36,7 +36,7 @@ I used `react` `html`, `css`.
 - it will add the new sticky note on the wall.
 
 ## Approach
-I adopted the `BEM` naming style for my css class names and ...
+I adopted the `BEM` naming style for my css class names and used eslint `airbnb` style guide.
 
 ## Status
 Stickies - TODO is completed with basic features. You can request for new features. or Fork and create PR for the same. `Version 2` will be out soon after adding new features.
