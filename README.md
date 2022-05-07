@@ -61,4 +61,4 @@ List of contriubutors:
 
 ## License
 
-MIT license @ [Ashish Pawar](https://github.com/ashishpawar517)
+MIT license @ [Ashish Pawar](https://github.com/ashishpawar517/stickies-todo/blob/main/LICENSE)
